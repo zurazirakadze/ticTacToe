@@ -1,0 +1,1681 @@
+('C:\\Users\\Zura Zirakadze\\tictactoe\\build\\ttt\\PYZ-00.pyz',
+ [('win32com',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\struct.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\stat.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\string.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\signal.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\base64.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\optparse.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\os.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging._typing',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging._compat',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\imp.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('pygame',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame._numpysndarray',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\_numpysndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame._numpysurfarray',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\_numpysurfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.compat',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\compat.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._psaix',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psaix.py',
+   'PYMODULE'),
+  ('psutil._pssunos',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_pssunos.py',
+   'PYMODULE'),
+  ('psutil._psbsd',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psbsd.py',
+   'PYMODULE'),
+  ('psutil._psosx',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psosx.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('psutil._pslinux',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_pslinux.py',
+   'PYMODULE'),
+  ('psutil._psposix',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psposix.py',
+   'PYMODULE'),
+  ('psutil._compat',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_compat.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Zura '
+   'Zirakadze\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE')])
